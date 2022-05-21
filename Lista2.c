@@ -11,7 +11,6 @@
 #include <math.h>
 #include <time.h>
 
-
     //PROTOTIPOS PROCEDIMENTOS
 void dobro();
 void maior();
